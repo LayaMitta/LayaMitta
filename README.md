@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LayaMitta
-- 👀 I’m interested in Front End Developement, Coding
+- 👀 I’m interested in FrontEnd Web Developement, Coding
 - 🌱 I’m currently learning Django
 
 
